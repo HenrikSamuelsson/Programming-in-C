@@ -30,3 +30,7 @@
 
 # Debug files
 *.dSYM/
+
+# Eclipse workspace metadata
+*.metadata/
+
