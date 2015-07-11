@@ -20,5 +20,10 @@ Testing.......1...2..3
 
 ## 4. ##
 A program that subtracts the value 15 from 87 and displays the result.  
-- [exercise_02_04.c](Exercise_04/exercise_02_04.c)  
+- [exercise_02_04.c](Exercise_04/exercise_02_04.c)
+
+## 5. ##
+A corrected version of the faulty program in this exercise.  
+- [exercise_02_05.c](Exercise_05/exercise_02_05.c)  
+   
 
