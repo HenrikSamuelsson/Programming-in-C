@@ -17,3 +17,8 @@ The output from the [program](Exercise_03/exercise_02_03.c) in this exercise:
 ```  
 Testing.......1...2..3
 ```  
+
+## 4. ##
+A program that subtracts the value 15 from 87 and displays the result.  
+- [exercise_02_04.c](Exercise_04/exercise_02_04.c)  
+
