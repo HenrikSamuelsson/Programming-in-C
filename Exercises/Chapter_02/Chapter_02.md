@@ -13,7 +13,7 @@ Program that prints some facts about C programming.
 - [exercise_02_02.c](Exercise_02/exercise_02_02.c)
 
 ## 3. ##
-The output from the [program](Exercise_03/exercise_02_03.c) in this exercise is:  
+The output from the [program](Exercise_03/exercise_02_03.c) in this exercise:  
 ```  
 Testing.......1...2..3
 ```  
