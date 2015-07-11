@@ -7,3 +7,4 @@ The exercises were done on a machine runnig Windows 7 with the following tool se
 - [Mingw-w64](http://mingw-w64.org/doku.php/start) enables GCC compiler usage on Windows systems.  
 - [CDT 8.7.0](https://eclipse.org/cdt/) an Integrated Development Environment for C and C++ based on the Eclipse platform.
 - [SourceTree](https://www.sourcetreeapp.com/) a GIT client.
+- [MarkdownPad](http://markdownpad.com/) a  Markdown editor for Windows.
