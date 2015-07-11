@@ -13,7 +13,7 @@ Program that prints some facts about C programming.
 - [exercise_02_02.c](Exercise_02/exercise_02_02.c)
 
 ## 3. ##
-The output from the [program](Exercise_03/exercise_02_03.c) in this exercise:  
+Below is the output from the [program](Exercise_03/exercise_02_03.c) in this exercise.  
 ```  
 Testing.......1...2..3
 ```  
@@ -25,5 +25,9 @@ A program that subtracts the value 15 from 87 and displays the result.
 ## 5. ##
 A corrected version of the faulty program in this exercise.  
 - [exercise_02_05.c](Exercise_05/exercise_02_05.c)  
-   
 
+## 6. ##
+Below is the output from the [program](Exercise_06/exercise_02_06.c) in this exercise.  
+```  
+The result is 95
+```
