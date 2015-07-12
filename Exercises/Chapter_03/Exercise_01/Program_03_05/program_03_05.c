@@ -1,5 +1,5 @@
 /*
- * program_03_02.c - Converting Between Integers and Floats
+ * program_03_05.c - Converting Between Integers and Floats
  */
 
 // Basic conversions in C
