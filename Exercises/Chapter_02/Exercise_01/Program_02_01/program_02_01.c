@@ -1,5 +1,5 @@
 /*
- * program_02_01.c - Writing your first C program
+ * program_02_01.c - Writing Your First C Program
  */
 #include <stdio.h>
 

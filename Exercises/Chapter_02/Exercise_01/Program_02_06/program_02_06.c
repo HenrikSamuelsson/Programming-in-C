@@ -1,5 +1,5 @@
 /*
- * program_02_06.c - Using comments in a program
+ * program_02_06.c - Using Comments in a Program
  */
 
 /* This program adds two integer values and displays the result */

@@ -1,5 +1,5 @@
 /*
- * program_02_03.c - Displaying multiple lines of output
+ * program_02_03.c - Displaying Multiple Lines of Output
  */
 #include <stdio.h>
 

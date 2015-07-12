@@ -1,5 +1,5 @@
 /*
- * program_03_01.c - Using the basic data types
+ * program_03_01.c - Using the Basic Data Types
  */
 #include <stdio.h>
 
