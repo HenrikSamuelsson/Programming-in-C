@@ -1,5 +1,5 @@
 /*
- * program_03_02.c - Using the arithmetic operators
+ * program_03_02.c - Using the Arithmetic Operators
  */
 
 // Illustrate the use of various arithmetic operators
