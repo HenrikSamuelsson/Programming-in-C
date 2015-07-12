@@ -26,3 +26,14 @@ char	// a keyword describing a type in C
 6_05	// variablnames are not allowed to start with a digit
 ```  
 The last variable in this exercise is named `A$`. This is not a valid name because of the dollar sign. It should however be noted that this variable name can often be used anyway. This is because of compiler extensions that extends the original C standard.  
+
+## 3. ##
+The following are invalid constants.
+```  
+0996	invalid digit "9" in octal constant  
+0x10.5	hexadecimal floating constants require an exponent  
+98.7U	invalid suffix "U" on floating constant  
+1.2Fe-7	invalid suffix "Fe-7" on floating constant  
+0X0G1	invalid suffix "G1" on integer constant  
+1777s	invalid suffix "s" on integer constant  
+```  
