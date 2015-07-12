@@ -1,5 +1,5 @@
 /*
- * program_02_05.c
+ * program_02_06.c
  */
 #include <stdio.h>
 
