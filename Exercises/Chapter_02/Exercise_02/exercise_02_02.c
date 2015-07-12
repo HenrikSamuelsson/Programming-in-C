@@ -1,7 +1,7 @@
 /*
  * exercise_02_02.c
  *
- * author Henrik Samuelsson, henrik.samuelsson(at)gmail.com
+ * Author: Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  */
 #include <stdio.h>
 
