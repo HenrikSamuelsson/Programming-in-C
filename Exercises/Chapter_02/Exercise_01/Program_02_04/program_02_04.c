@@ -1,5 +1,5 @@
 /*
- * program_02_04.c - Displaying values
+ * program_02_04.c - Displaying Variables
  */
 #include <stdio.h>
 
