@@ -25,4 +25,4 @@ Examples of invalid variable names are the following.
 char	// a keyword describing a type in C
 6_05	// variablnames are not allowed to start with a digit
 ```  
-The last variable named `A$` is not a valid name because of the dollar sign. Note that this variable name can often be used anyway, because of compiler extensions that extends the original C standard.  
+The last variable in this exercise is named `A$` this is not a valid name because of the dollar sign. It should however be noted that this variable name can often be used anyway. This is because of compiler extensions that extends the original C standard.  
