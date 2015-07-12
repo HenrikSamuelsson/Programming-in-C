@@ -37,3 +37,6 @@
 # The entire eclipse workspace 
 # Will only upload source files and these are always linked into the work space.
 workspace/
+
+# The folder with downloaded source code
+source code/
