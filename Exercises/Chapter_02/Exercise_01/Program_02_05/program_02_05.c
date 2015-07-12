@@ -1,5 +1,5 @@
 /*
- * program_02_05.c
+ * program_02_05.c - Displaying Multiple Values
  */
 #include <stdio.h>
 
