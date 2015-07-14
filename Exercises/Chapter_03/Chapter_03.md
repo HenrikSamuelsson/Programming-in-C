@@ -51,4 +51,4 @@ d = d
 
 ## 6. ##
 Program for that evaluates a polynomial.  
-- [exercise_03_06.c](Exercise_05/exercise_03_05.c)  
+- [exercise_03_06.c](Exercise_06/exercise_03_06.c)  
