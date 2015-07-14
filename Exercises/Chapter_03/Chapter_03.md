@@ -44,7 +44,7 @@ Program that converts 27 degrees Fahrenheit to Celsius.
 - [exercise_03_04.c](Exercise_04/exercise_03_04.c)  
 
 ## 5. ##
-The expected output from the [program](Exercise_05/exercise_03_04.c) in this exercise.  
+The expected output from the [program](Exercise_05/exercise_03_05.c) in this exercise.  
 ```  
 d = d  
 ```  
