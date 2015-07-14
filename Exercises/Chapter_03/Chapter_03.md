@@ -52,3 +52,7 @@ d = d
 ## 6. ##
 Program for that evaluates a polynomial.  
 - [exercise_03_06.c](Exercise_06/exercise_03_06.c)  
+
+## 7. ##
+Program that evaluates an expression with exponential numbers.  
+- [exercis_03_07.c](Exercise_07/exercise_03_07.c)  
