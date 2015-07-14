@@ -38,3 +38,8 @@ The following are invalid constants.
 0X0G1	invalid suffix "G1" on integer constant  
 1777s	invalid suffix "s" on integer constant  
 ```  
+
+## 4. ##
+Program that converts 27 degrees Fahrenheit to Celsius.  
+- [exercise_03_04.c](Exercise_04/exercise_03_04.c)  
+
