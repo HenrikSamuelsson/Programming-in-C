@@ -55,7 +55,7 @@ Program for that evaluates a polynomial.
 
 ## 7. ##
 Program that evaluates an expression with exponential numbers.  
-- [exercis_03_07.c](Exercise_07/exercise_03_07.c)  
+- [exercise_03_07.c](Exercise_07/exercise_03_07.c)  
 
 ## 8. ##
 Nothing to do in this exercise. But contains instructions on how to calculate the next largest even multiple of another integer. This is useful to know when solving the next exercise.  
