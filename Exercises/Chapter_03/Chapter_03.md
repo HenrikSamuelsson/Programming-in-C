@@ -43,3 +43,8 @@ The following are invalid constants.
 Program that converts 27 degrees Fahrenheit to Celsius.  
 - [exercise_03_04.c](Exercise_04/exercise_03_04.c)  
 
+## 5. ##
+The expected output from the [program](Exercis_05/exercise_03_04.c) in this exercise is  
+```  
+d = d  
+```  
