@@ -48,3 +48,7 @@ The expected output from the [program](Exercise_05/exercise_03_05.c) in this exe
 ```  
 d = d  
 ```  
+
+## 6. ##
+Program for that evaluates a polynomial.  
+- [exercise_03_06.c](Exercise_05/exercise_03_05.c)  
