@@ -59,3 +59,7 @@ Program that evaluates an expression with exponential numbers.
 
 ## 8. ##
 Nothing to do in this exercise. But contains instructions on how to calculate the next largest even multiple of another integer. This is useful to know when solving the next exercise.  
+
+## 9. ##
+Program that finds the next largest even multiple for some pairs of sample data.  
+- [exercise_03_09.c](Exercise_09/exercise_03_09.c)  
