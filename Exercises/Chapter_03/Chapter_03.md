@@ -12,7 +12,7 @@ The following are valid variable names.
 ```  
 Int  
 Calloc  
-floaitng  
+floating  
 ReInitialize  
 Xx  
 _1312  
@@ -63,3 +63,4 @@ Nothing to do in this exercise. But contains instructions on how to calculate th
 ## 9. ##
 Program that finds the next largest even multiple for some pairs of sample data.  
 - [exercise_03_09.c](Exercise_09/exercise_03_09.c)  
+
