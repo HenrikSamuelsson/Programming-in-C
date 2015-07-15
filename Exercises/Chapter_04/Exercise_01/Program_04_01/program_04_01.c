@@ -1,5 +1,5 @@
 /*
- * program_02_01.c - Calculating the Eighth Triangular Number
+ * program_04_01.c - Calculating the Eighth Triangular Number
  */
 
 // Program to calculate the eighth triangular number
@@ -16,4 +16,3 @@ int main (void)
 
 	return 0;
 }
-
