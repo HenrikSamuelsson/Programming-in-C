@@ -6,7 +6,7 @@ Notes and exercises regarding the book Programming in C, 4th edition, written by
 [Chapter 3](Exercises/Chapter_03/Chapter_03.md) - Variables, Data Types, and Arithmetic Expressions   
 [Chapter 4](Exercises/Chapter_04/Chapter_04.md) - Program Looping  
 
-## Devolopment Tools
+## Tools
 The exercises were done on a machine runnig Windows 7 with the following tool set.  
 - [Mingw-w64](http://mingw-w64.org/doku.php/start) enables GCC compiler usage on Windows systems.  
 - [CDT 8.7.0](https://eclipse.org/cdt/) an Integrated Development Environment for C and C++, based on the Eclipse platform.
