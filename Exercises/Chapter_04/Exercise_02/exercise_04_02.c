@@ -15,9 +15,9 @@ int main (void)
 	printf ("  n      n^2 \n");
 	printf ("-----   -----\n");
 
-	for (n = 1; n < 11; n++)
+	for ( n = 1; n < 11; n++ )
 	{
-		printf(" %2i     %3i \n", n, n * n);
+		printf (" %2i     %3i \n", n, n * n);
 	}
 
 	return 0;
