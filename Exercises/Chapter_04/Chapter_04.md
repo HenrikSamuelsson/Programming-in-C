@@ -13,4 +13,4 @@ Test run of the 9 programs presented in this chapter.
 
 ## 2. ##
 Program that generates a table of squared numbers.  
- - [exercis_04_02.c](Exercise_01/exercise_04_02.c)  	
+ - [exercise_04_02.c](Exercise_02/exercise_04_02.c)  	
