@@ -25,6 +25,6 @@ Program that generates a table of factorials.
 
 ## 5. ##
 Reformatted version of the given program in this exercise.  
-- [exercis_04_05.c](Exercise_05/exercise_04_05.c)  
+- [exercise_04_05.c](Exercise_05/exercise_04_05.c)  
 
 
