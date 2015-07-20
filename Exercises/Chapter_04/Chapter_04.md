@@ -22,3 +22,9 @@ Program that generates a table of triangular numbers.
 ## 4. ##
 Program that generates a table of factorials.  
  - [exercise_04_04.c](Exercise_04/exercise_04_04.c)  
+
+## 5 ##
+Reformatted version of the given program in this exercise.  
+- [exercis_04_05.c](Exercise_05/exercise_04_05.c)  
+
+
