@@ -1,6 +1,8 @@
 /*
  * exercise_04_05.c
  *
+ * Program that generates a table with powers of two.
+ *
  * Author: Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  */
 
