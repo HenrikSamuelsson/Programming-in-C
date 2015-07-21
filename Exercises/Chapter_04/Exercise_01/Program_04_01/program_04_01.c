@@ -1,8 +1,8 @@
 /*
  * program_04_01.c - Calculating the Eighth Triangular Number
+ * 
+ * Program to calculate the eighth triangular number.
  */
-
-// Program to calculate the eighth triangular number
 
 #include <stdio.h>
 
