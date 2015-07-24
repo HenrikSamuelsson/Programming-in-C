@@ -24,7 +24,6 @@ bool equalStrings (const char s1[], const char s2[])
 
 int main (void)
 {
-
 	bool equalStrings (const char s1[], const char s2[]);
 	const char stra[] = "string compare test";
 	const char strb[] = "string";
