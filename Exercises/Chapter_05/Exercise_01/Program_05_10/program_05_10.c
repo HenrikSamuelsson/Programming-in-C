@@ -23,5 +23,7 @@ int main (void)
 			printf ("%i ", p);
 	}
 
+	printf ("\n");
+
 	return 0;
 }
