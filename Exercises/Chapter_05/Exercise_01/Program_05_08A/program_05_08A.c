@@ -1,5 +1,5 @@
 /*
- * program_05_08.c
+ * program_05_08A.c
  *
  * Program to evaluate simple expressions of the form "number operator number"
  */
