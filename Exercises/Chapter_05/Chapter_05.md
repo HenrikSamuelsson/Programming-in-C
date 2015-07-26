@@ -26,3 +26,7 @@ Program that divides two given integers.
 Program that acts as a calculator.  
  - [exercise_05_04.c](Exercise_04/exercise_05_04.c)  
 
+## 5. ##
+Program to reverse the digits of a number.  
+ - [exercise_05_05.c](Exercise_05/exercise_05_05.c)  
+
