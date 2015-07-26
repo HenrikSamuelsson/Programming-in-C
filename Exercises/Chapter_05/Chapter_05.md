@@ -22,3 +22,7 @@ Program that checks if a given number is evenly divisible by another given numbe
 Program that divides two given integers.  
  - [exercise_05_03.c](Exercise_03/exercise_05_03.c)  
 
+## 4. ##
+Program that acts as a calculator.  
+ - [exercise_05_04.c](Exercise_04/exercise_05_04.c)  
+
