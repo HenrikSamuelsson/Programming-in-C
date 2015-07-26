@@ -1,7 +1,7 @@
 /*
  * program_04_09.c - Revised Program to Reverse the Digits of a Number
  *
- * Program to reverse the digits of a number
+ * Program to reverse the digits of a number.
  */
 
 #include <stdio.h>
