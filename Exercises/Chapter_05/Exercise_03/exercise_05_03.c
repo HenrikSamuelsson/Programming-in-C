@@ -7,7 +7,7 @@
  *
  * There is a built in check to defend against division by zero.
  *
- * Author: Henrik Samuelsson, henrik.samuelsson@gmail.com
+ * Author: Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  */
 
 #include <stdio.h>
