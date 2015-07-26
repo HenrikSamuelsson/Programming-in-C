@@ -18,3 +18,7 @@ Test run of the 12 programs presented in this chapter.
 Program that checks if a given number is evenly divisible by another given number.  
  - [exercise_05_02.c](Exercise_02/exercise_05_02.c)  
 
+## 3. ##
+Program that divides two given integers.  
+ - [exercise_05_03.c](Exercise_03/exercise_05_03.c)  
+
