@@ -30,3 +30,7 @@ Program that acts as a calculator.
 Program to reverse the digits of a number.  
  - [exercise_05_05.c](Exercise_05/exercise_05_05.c)  
 
+## 6. ##
+Program that takes an integer entered by the user and extracts each digit into English.  
+ - [exercise_05_06.c](Exercise_06/exercise_05_06.c)  
+
