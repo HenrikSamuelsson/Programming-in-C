@@ -34,3 +34,7 @@ Program to reverse the digits of a number.
 Program that takes an integer entered by the user and extracts each digit into English.  
  - [exercise_05_06.c](Exercise_06/exercise_05_06.c)  
 
+## 7. ##
+Program that generates some prime numbers.  
+ - [exercise_05_07.c](Exercise_07/exercise_05_07.c)  
+
