@@ -6,8 +6,8 @@ Notes and exercises regarding the book Programming in C, 4th edition, written by
 [Chapter 3](Exercises/Chapter_03/Chapter_03.md) - Variables, Data Types, and Arithmetic Expressions   
 [Chapter 4](Exercises/Chapter_04/Chapter_04.md) - Program Looping  
 [Chapter 5](Exercises/Chapter_05/Chapter_05.md) - Making Decisions  
+[Chapter 6](Exercises/Chapter_06/Chapter_06.md) - Working with Arrays  
 [Chapter 9](Exercises/Chapter_09/Chapter_09.md) - Character Strings  
-[Chapter 6](Exercise/Chapter_06/Chapter_06.md) - Working with Arrays  
 
 ## Tools
 The exercises were done on a machine running Windows 7 with the following tool set.  
