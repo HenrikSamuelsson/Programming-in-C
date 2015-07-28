@@ -28,7 +28,7 @@ int main (void)
 	printf ("------   -------------------\n");
 
 	for (i = 1; i <= 10; ++i)
-		printf ("%4i%4i\n", i, ratingCounters[i]);
+		printf ("%4i%14i\n", i, ratingCounters[i]);
 
 	return 0;
 }
