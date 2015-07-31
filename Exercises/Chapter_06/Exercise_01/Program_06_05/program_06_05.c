@@ -1,7 +1,7 @@
 /*
  * program_06_05.c - Initializing Arrays
  *
- * Program that illustrates twe types of array-initialization techniques.
+ * Program that illustrates two types of array-initialization techniques.
  */
 
 #include <stdio.h>
