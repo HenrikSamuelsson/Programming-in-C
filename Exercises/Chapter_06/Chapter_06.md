@@ -8,6 +8,4 @@ Test run of the eight programs presented in this chapter.
  - [program_06_05.c](Exercise_01/Program_06_05/program_06_05.c)  
  - [program_06_06.c](Exercise_01/Program_06_06/program_06_06.c)  
  - [program_06_07.c](Exercise_01/Program_06_07/program_06_07.c)  
- 
-
-
+ - [program_06_08.c](Exercise_01/Program_06_08/program_06_08.c)  
