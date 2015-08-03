@@ -27,6 +27,6 @@ The expected output from the [program](Exercise_05/exercise_06_05.c) in this exe
 ```
 1 1 2 4 8 16 32 64 128 256
 ```
-A given value in the array is made up of the sum of all values before the given value except for the very first value that is always 1.  
+The program is based around an array that holds ten integers. A given value in the array is made up of the sum of all values before the given value, except for the very first value that is set to 1.  
 
   
