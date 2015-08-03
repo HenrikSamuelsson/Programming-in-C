@@ -21,3 +21,12 @@ Program 6.2 again, but there is no longer a fixed number of responses. The user 
 ## 4. ##
 Program to calculate the average of some values.    
  - [exercise_06_04.c](Exercise_04/exercise_06_04.c)  
+
+## 5. ##
+The expected output from the [program](Exercise_05/exercise_06_05.c) in this exercise is  
+```
+1 1 2 4 8 16 32 64 128 256
+```
+A given value in the array is made up of the sum of all values before the given value except for the very first value that is always 1.  
+
+  
