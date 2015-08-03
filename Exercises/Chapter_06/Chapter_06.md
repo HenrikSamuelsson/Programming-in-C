@@ -17,3 +17,7 @@ Program 6.1 again, but this time with an initial for loop that sets all values o
 ## 3. ##
 Program 6.2 again, but there is no longer a fixed number of responses. The user can enter any number of responses and ends the input by typing in 999.    
  - [exercise_06_03.c](Exercise_03/exercise_06_03.c)  
+
+## 4. ##
+Program to calculate the average of some values.    
+ - [exercise_06_04.c](Exercise_04/exercise_06_04.c)  
