@@ -29,4 +29,8 @@ The expected output from the [program](Exercise_05/exercise_06_05.c) in this exe
 ```
 The program is based around an array that holds ten integers. A given value in the array is set to the sum of all values before the given value, except for the very first value that is set to 1.  
 
+## 6. ##
+Program that calculates and prints the first 15 Fibonacci numbers. Only three variables are needed to store the numbers in this implementation.  
+- [exercise_06_06.c](Exercise_06/exercise_06_06.c)  
+
   
