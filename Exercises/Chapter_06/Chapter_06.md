@@ -33,4 +33,10 @@ The program is based around an array that holds ten integers. A given value in t
 Program that calculates and prints the first 15 Fibonacci numbers. Only three variables are needed to store the numbers in this implementation.  
 - [exercise_06_06.c](Exercise_06/exercise_06_06.c)  
 
-  
+## 7. ##
+Program that implements a version of the Sieve of Eratosthenes to generate prime numbers.  
+ - [exercise_06_07.c](Exercise_07/exercise_06_07.c)  
+
+## 8. ##
+Program that calculates the dot product of two vectors by the use of variable length arrays.  
+ - [exercise_06_08.c](Exercise_08/exercise_06_08.c)
