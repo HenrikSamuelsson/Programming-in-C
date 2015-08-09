@@ -1,5 +1,5 @@
 /*
- * program_07_05.c
+ * program_07_05.c - Revising the Program to find the Greatest Common Divisor
  */
 
 #include <stdio.h>
