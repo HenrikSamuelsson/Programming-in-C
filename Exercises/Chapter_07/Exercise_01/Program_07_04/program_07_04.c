@@ -4,7 +4,10 @@
 
 #include <stdio.h>
 
-/*  Function to calculate nth triangular number. */
+/*
+ * Function to calculate nth triangular number.
+ */
+
 void calculateTriangularNumber (int n)
 {
 	int i, triangularNumber = 0;
