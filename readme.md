@@ -10,6 +10,7 @@ Notes and exercises regarding the book Programming in C, 4th edition, written by
 [Chapter 7](Exercises/Chapter_07/Chapter_07.md) - Working with Functions  
 [Chapter 9](Exercises/Chapter_09/Chapter_09.md) - Character Strings  
 [Chapter 11](Exercises/Chapter_11/Chapter_11.md) - Operations on Bits  
+[Chapter 17](Exercises/Chapter_17/Chapter_17.md) - Debugging Programs  
 
 ## Tools
 The exercises were done on a machine running Windows 7 with the following tool set.  
