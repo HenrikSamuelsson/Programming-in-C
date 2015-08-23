@@ -1,7 +1,8 @@
 /*
  * exercise_07_03.c
  *
- * Variant of program 7.8 where epsilon is given as an argument to the function.
+ * Variant of program 7.8, epsilon is now given as an argument to the function.
+ *
  * Have also changed all numbers from float to double precision to better be
  * able to see the effects of different epsilon values.
  *
