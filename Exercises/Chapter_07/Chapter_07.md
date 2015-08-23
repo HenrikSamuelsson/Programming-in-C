@@ -19,3 +19,7 @@ Test run of the seventeen programs presented in this chapter.
  - [program_07_16.c](Exercise_01/Program_07_16/program_07_16.c)  
  - [program_07_17.c](Exercise_01/Program_07_17/program_07_17.c)  
 
+## 3. ##
+Variant of program 7.8 where epsilon is given as an argument to the function.  
+- [exercise_07_03.c](Exercise_03/exrcise_07_03.c)  
+
