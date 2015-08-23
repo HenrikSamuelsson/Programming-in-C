@@ -20,6 +20,6 @@ Test run of the seventeen programs presented in this chapter.
  - [program_07_17.c](Exercise_01/Program_07_17/program_07_17.c)  
 
 ## 3. ##
-Variant of program 7.8, epsilon is given as an argument to the function. A couple of different epsilon values are tested and it can be seen that smaller values of epsilon gives higher accurancy in the square root calculations.    
+Variant of program 7.8, epsilon is given as an argument to the function. A couple of different epsilon values are tested and it can be seen that smaller values of epsilon gives higher accuracy in the square root calculations.    
 - [exercise_07_03.c](Exercise_03/exercise_07_03.c)  
 
