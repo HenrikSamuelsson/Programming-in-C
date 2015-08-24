@@ -1,5 +1,5 @@
 /*
- * program_10_01.c
+ * program_10_01.c - Illustrating Pointers
  */
 
 #include <stdio.h>
