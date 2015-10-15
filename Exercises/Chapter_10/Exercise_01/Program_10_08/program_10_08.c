@@ -1,5 +1,5 @@
 /*
- * program_10_08.c
+ * program_10_08.c - Using Pointers and Functions
  */
 
 #include <stdio.h>
