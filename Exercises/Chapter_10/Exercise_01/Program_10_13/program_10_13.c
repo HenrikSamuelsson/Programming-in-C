@@ -1,5 +1,5 @@
 /*
- * program_10_13.c - Pointer version of copyString()
+ * program_10_13.c - Pointer Version of copyString()
  */
 
 #include <stdio.h>
