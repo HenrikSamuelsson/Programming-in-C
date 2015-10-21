@@ -17,3 +17,6 @@ Test run of the fifteen programs presented in this chapter.
  - [program_10_14.c](Exercise_01/Program_10_14/program_10_14.c)  
  - [program_10_15.c](Exercise_01/Program_10_15/program_10_15.c)  
 
+## 2. ##
+A function that inserts an entry in a linked list.  
+- [exercise_10_02.c](Exercise_10/exercise_10_02.c)  
