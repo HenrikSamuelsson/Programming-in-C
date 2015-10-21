@@ -19,4 +19,4 @@ Test run of the fifteen programs presented in this chapter.
 
 ## 2. ##
 A function that inserts an entry in a linked list.  
-- [exercise_10_02.c](Exercise_10/exercise_10_02.c)  
+- [exercise_10_02.c](Exercise_02/exercise_10_02.c)  
