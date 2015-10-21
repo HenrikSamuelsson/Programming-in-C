@@ -18,5 +18,5 @@ Test run of the fifteen programs presented in this chapter.
  - [program_10_15.c](Exercise_01/Program_10_15/program_10_15.c)  
 
 ## 2. ##
-A function that inserts an entry in a linked list.  
+Implementation of a function that inserts an entry in a linked list and complementing code to test the function.
 - [exercise_10_02.c](Exercise_02/exercise_10_02.c)  
