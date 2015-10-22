@@ -1,5 +1,5 @@
 /*
- * program_11_01.c
+ * program_11_01.c - The Bitwise AND Operator
  *
  * Program to demonstrate the bitwise AND operator.
  */
