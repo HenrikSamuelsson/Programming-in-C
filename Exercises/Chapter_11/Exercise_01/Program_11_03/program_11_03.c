@@ -1,6 +1,5 @@
 /*
  * program_11_03.c - Implementing a shift function
- *
  */
 
 #include <stdio.h>
