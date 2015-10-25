@@ -24,5 +24,5 @@ Implementation of a function that inserts an entry in a linked list and compleme
 ## 3. ##
 Implementation of a function that inserts an entry in a linked list. The list have a header entry that points to the first actual element in the list. This header makes it possible to use the add function to insert new entries anywhere in the list.  
 
-The function and comelpmenting code that tests the function:  
-- [Exercise 10.2](Exercise_02/exercise_10_02.c)  
+The function and complementing code that tests the function:  
+- [Exercise 10.3](Exercise_02/exercise_10_03.c)  
