@@ -1,5 +1,5 @@
 /*
- * program_12_01.c - Introducing the #define statement
+ * program_12_01.c - Introducing the #define Statement
  */
 
 #include <stdio.h>
