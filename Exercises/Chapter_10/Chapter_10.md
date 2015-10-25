@@ -1,6 +1,6 @@
 # Exercise Solutions Chapter 10 #
 ## 1. ##
-Test run of the fifteen programs presented in this chapter.  
+Test run of the fifteen programs presented in this chapter:  
  - [Program 10.1](Exercise_01/Program_10_01/program_10_01.c)  
  - [Program 10.2](Exercise_01/Program_10_02/program_10_02.c)  
  - [Program 10.3](Exercise_01/Program_10_03/program_10_03.c)  
@@ -19,4 +19,10 @@ Test run of the fifteen programs presented in this chapter.
 
 ## 2. ##
 Implementation of a function that inserts an entry in a linked list and complementing code to test the function.  
+- [Exercise 10.2](Exercise_02/exercise_10_02.c)  
+
+## 3. ##
+Implementation of a function that inserts an entry in a linked list. The list have a header entry that points to the first actual element in the list. This header makes it possible to use the add function to insert new entries anywhere in the list.  
+
+The function and comelpmenting code that tests the function:  
 - [Exercise 10.2](Exercise_02/exercise_10_02.c)  
