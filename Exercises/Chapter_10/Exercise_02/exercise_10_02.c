@@ -26,7 +26,7 @@ int main (void)
 	n1.value = 100;
 	n1.next = &n2;
 
-	nE.value = 250;
+	nE.value = 150;
 
 	n2.value = 200;
 	n2.next = (struct entry *) 0;	// mark list end with null pointer
