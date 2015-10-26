@@ -1,0 +1,17 @@
+/*
+ * metric.h
+ */
+
+#ifndef METRIC_H_
+#define METRIC_H_
+
+#define INCHES_PER_CENTIMETER	0.394
+#define CENTIMETER_PER_INCH		1 / INCHES_PER_CENTIMETER
+
+#define QUARTS_PER_LITER		1.057
+#define LITERS_PER_QUART		1 / LITERS_PER_QUART
+
+#define OUNCES_PER_GRAM			0.035
+#define GRAMS_PER_OUNCE			1 / GRAMS_PER_OUNCE
+
+#endif /* METRIC_H_ */
