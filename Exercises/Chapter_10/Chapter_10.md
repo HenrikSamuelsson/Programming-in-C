@@ -18,7 +18,7 @@ Test run of the fifteen programs presented in this chapter:
  - [Program 10.15](Exercise_01/Program_10_15/program_10_15.c)  
 
 ## 2. ##
-Implementation of a function that inserts an entry in a linked list and complementing code to test the function.  
+Implementation of a function that inserts an entry in a linked list and complementing code to test the function:  
 - [Exercise 10.2](Exercise_02/exercise_10_02.c)  
 
 ## 3. ##
@@ -26,3 +26,9 @@ Implementation of a function that inserts an entry in a linked list. The list ha
 
 The function and complementing code that tests the function:  
 - [Exercise 10.3](Exercise_03/exercise_10_03.c)  
+
+## 4. ##
+Implementation of a function that removes an entry in a linked list. The argument to the function is the element *before* the element that shall be removed. The list is single linked so we can not use the element that shall be removed as argument since we do not know what links to the element to be removed.
+
+The function and complementing code that tests the function:  
+- [Exercise 10.4](Exercise_04/exercise_10_04.c)  
