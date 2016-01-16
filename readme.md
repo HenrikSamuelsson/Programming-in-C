@@ -13,6 +13,7 @@ Notes and exercises regarding the book Programming in C, 4th edition, written by
 [Chapter 10](Exercises/Chapter_10/Chapter_10.md) - Pointers  
 [Chapter 11](Exercises/Chapter_11/Chapter_11.md) - Operations on Bits  
 [Chapter 12](Exercises/Chapter_12/Chapter_12.md) - The Preprocessor  
+[Chapter 13](Exercises/Chapter_13/Chapter_13.md) - Extending Data Types   
 [Chapter 15](Exercises/Chapter_15/Chapter_15.md) - Input and Output Operations in C   
 [Chapter 17](Exercises/Chapter_17/Chapter_17.md) - Debugging Programs  
 
