@@ -8,6 +8,8 @@
  * number strings. But arrays have not been introduced in the book yet, hence
  * the switch statement.
  *
+ * Thanks to Doug Tuttle for reporting bug in previous version of this code.
+ *
  * Author: Henrik Samuelsson, henrik.samuelsson(at)gmail.com
  */
 
@@ -16,22 +18,26 @@
 int main (void)
 {
 	int input = 0, reversedInput = 0, digit;
+    int numberOfDigits = 0;	// The number of digits in integer input by user
 
 	scanf ("%d", &input);
 
 	// Start by reversing the input number
-	while (input != 0)
+	do
 	{
 		reversedInput *= 10;
 		reversedInput = reversedInput + input % 10;
 		input /= 10;
-	}
+		numberOfDigits++;
+
+	} while (input != 0);
 
 	// Extract each digit from the right and print it in English
 	do
 	{
 		digit = reversedInput % 10;
 		reversedInput /= 10;
+		numberOfDigits--;
 
 		switch (digit)
 		{
@@ -67,7 +73,7 @@ int main (void)
 			break;
 		}
 
-	} while (reversedInput != 0);
+	} while (numberOfDigits != 0);
 
 	return 0;
 }
