@@ -39,7 +39,8 @@ int main (void)
 
 		// Step 5: Add 1 to i and goto step 3
 		i++;
-		j++;
+		j = i; 
+			
 	}
 
 	// Step 6: If element i in P is 0 then i is prime, except for i = 0 and
