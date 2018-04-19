@@ -18,7 +18,7 @@ int main (void)
 	{
 		isPrime = true;
 
-		for (d = 2; d < p; ++d && isPrime)
+		for (d = 2; d < p  && isPrime; ++d)
 			if (p % d == 0)
 				isPrime = false;
 
