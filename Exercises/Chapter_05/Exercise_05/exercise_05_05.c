@@ -13,7 +13,6 @@
 int main (void)
 {
 	int number, right_digit;
-	_Bool isNegative = 0;
 
 	printf ("Enter your number.\n");
 	scanf ("%i", &number);
@@ -21,7 +20,7 @@ int main (void)
 	if (number < 0)
 	{
 		number *= -1;
-		isNegative = 1;
+		printf ("-");
 	}
 
 	do
@@ -31,11 +30,6 @@ int main (void)
 		number = number / 10;
 	}
 	while (number != 0);
-
-	if (isNegative)
-	{
-		printf ("-");
-	}
 	
 	printf ("\n");
 	return 0;
