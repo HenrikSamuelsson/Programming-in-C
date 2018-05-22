@@ -17,7 +17,7 @@ int main (void)
 
 	printf ("Enter your responses, enter 999 when done.\n");
 
-	for (i = 1; i <= 20; ++i)
+	for (i = 1; ; ++i)
 	{
 		scanf ("%i", &response);
 
