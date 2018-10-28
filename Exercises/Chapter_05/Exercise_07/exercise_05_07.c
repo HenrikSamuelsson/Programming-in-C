@@ -13,12 +13,16 @@ int main (void)
 {
 	int p, d;
 	bool isPrime;
-
+	
+	// print 2 as the first prime
+	printf("2 ");
+	
 	for (p = 3; p <= 50; p += 2)
 	{
 		isPrime = true;
 
-		for (d = 2; d < p  && isPrime; ++d)
+		// only loop through odd numbers as divisors
+		for (d = 3; d < p  && isPrime; d += 2)
 			if (p % d == 0)
 				isPrime = false;
 
